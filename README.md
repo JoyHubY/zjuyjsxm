@@ -1,5 +1,5 @@
 # 近期主要公众号推文一览
-### Last updated at 2021-03-13 15:58 By *LionBot*
+### Last updated at 2021-03-13 17:00 By *LionBot*
 | title | time | source | link |
 | :---: | :---: | :---: | :---: |
 | 冲动啊！杭州男子猛砸90万买健身私教课！这件事，全城400家健身房马上要办 | 2021-03-13 11:26:26 | 钱江晚报 | [跳转链接](http://mp.weixin.qq.com/s?__biz=MTIxMjEzMzc0MQ==&mid=2671811200&idx=1&sn=0ffefaf956cd9632bbfefdf75e5ac36d&chksm=7ab47c824dc3f594d1130f74fda67771905cb2788a76e4c37e17171c46e15733e03b118ed9ca#rd) |
