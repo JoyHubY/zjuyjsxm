@@ -1,5 +1,5 @@
 # 近期主要公众号推文一览
-### Last updated at 2021-03-21 10:30 By *LionBot*
+### Last updated at 2021-03-21 16:30 By *LionBot*
 | title | time | source | link |
 | :---: | :---: | :---: | :---: |
 | 清华大学修订《攻读硕士学位研究生培养工作规定》 | 2021-03-18 15:22:12 | 清华大学 | [跳转链接](http://mp.weixin.qq.com/s?__biz=MzA4OTIyMzgxMw==&mid=2659228413&idx=1&sn=55fcc28751d2c784ad74b2fa103abf1a&chksm=8b6a1d17bc1d940167310961c6d41e4cd65d4c5258650e3fbdaa18ef29a69be46364f8cfe66d#rd) |
