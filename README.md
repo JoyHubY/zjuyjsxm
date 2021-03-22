@@ -1,5 +1,5 @@
 # 近期主要公众号推文一览
-### Last updated at 2021-03-22 10:30 By *LionBot*
+### Last updated at 2021-03-22 16:30 By *LionBot*
 | title | time | source | link |
 | :---: | :---: | :---: | :---: |
 | 浙大牵手两大“国字头”机构 | 2021-03-19 15:12:25 | 浙江大学校友总会 | [跳转链接](http://mp.weixin.qq.com/s?__biz=MjM5MjA1MjcwMA==&mid=2660076673&idx=1&sn=fbbde3b8d62ffb5aa18dba51b33ef776&chksm=bdd508328aa281243c9ab410a20e0c7f2bff3f67d249464334015729394a5eca7703923f24a1#rd) |
